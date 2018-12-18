@@ -202,7 +202,7 @@ prompt_hg() {
 
 # Dir: current working directory
 prompt_dir() {
-  prompt_segment 032 016 '%B%2~%b'
+  prompt_segment 032 016 '%B%1~%b'
   # prompt_segment 032 $CURRENT_FG '%B%2~%b'
 }
 
