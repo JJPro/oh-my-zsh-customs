@@ -12,4 +12,5 @@ alias swp='ssh wordpress@wp.jjpro.me'
 alias cnotes='cd ~/Dropbox/Notes'
 alias sjira2='ssh root@jira2.jjpro.me'
 alias gou='open `git remote get-url origin`'
-
+alias ltr='ls -ltr'
+alias latr='l -tr'
