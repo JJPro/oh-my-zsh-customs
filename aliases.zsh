@@ -1,7 +1,7 @@
 # alias cdp='cd /Users/jjpro/Dropbox/Projects/Business\ Projects/mr.boston'
 alias cdc='cd $HOME/Dropbox/Course\ Materials'
 # alias cdp='cd $HOME/Dropbox/Course\ Materials/cs5610\ -\ Web\ Dev/project2/code'
-alias cdp='cd $HOME/Documents/code/'
+alias cdff='cd $HOME/Dropbox/Coop/Forward\ Financing/code'
 alias cdpp='cd $HOME/Dropbox/Projects'
 alias cde='cd $HOME/Dropbox/Course\ Materials/cs5610\ -\ Web\ Dev/practices/Programming\ Elixir'
 alias cdg='cd $HOME/Dropbox/Course\ Materials/cs5310\ -\ Computer\ Graphics/monorepo-JJPro'
